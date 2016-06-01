@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         btnSaludar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                lblMensaje.setText("Hola " + etNombre.getText());
+                lblMensaje.setText("Esto debe ser el nombre " + etNombre.getText());
             }
         });
 
