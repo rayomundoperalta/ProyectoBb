@@ -25,6 +25,6 @@
         android:id="@+id/lblMensaje"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Aquí va el saludo"
+        android:text="campo de respuesta 12 "
         />
 </LinearLayout>
