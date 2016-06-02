@@ -1,5 +1,7 @@
 package mx.peta.proyectob;
 
+/* solo un comentario para probar git */
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
